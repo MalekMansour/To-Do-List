@@ -13,7 +13,7 @@ This Python-based To-Do List CLI application allows users to manage tasks throug
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/todo-list.git
+    git clone https://github.com/MalekMansour/To-Do-List
     ```
 
 2. Navigate to the project directory:
